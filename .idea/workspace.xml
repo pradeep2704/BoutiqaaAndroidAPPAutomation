@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="661a72ea-a67e-45a8-b541-f2d06b471c6b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Boutiqaat" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Boutiqaat" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Boutiqaat" type="616d4139:PackageViewModuleNode" />
+              <item name="Boutiqaat" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Boutiqaat" type="616d4139:PackageViewModuleNode" />
+              <item name="Boutiqaat" type="1f31426a:PackageElementNode" />
+              <item name="Boutiqaat" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Boutiqaat" type="616d4139:PackageViewModuleNode" />
+              <item name="BoutiqaatPages" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Boutiqaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boutiqaat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+              <item name="Boutiqaat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestBaseBoutiqaat (2)">
+    <configuration name="TestBaseBoutiqaat (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Boutiqaat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Boutiqaat.Boutiqaat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Boutiqaat.Boutiqaat" />
+      <option name="MAIN_CLASS_NAME" value="Boutiqaat.Boutiqaat.TestBaseBoutiqaat" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBaseBoutiqaat (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Boutiqaat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Boutiqaat.Boutiqaat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Boutiqaat.Boutiqaat" />
+      <option name="MAIN_CLASS_NAME" value="Boutiqaat.Boutiqaat.TestBaseBoutiqaat" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBaseBoutiqaat" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Boutiqaat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Boutiqaat.Boutiqaat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Boutiqaat.Boutiqaat" />
+      <option name="MAIN_CLASS_NAME" value="Boutiqaat.Boutiqaat.TestBaseBoutiqaat" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestBaseBoutiqaat (2)" />
+        <item itemvalue="TestNG.TestBaseBoutiqaat (1)" />
+        <item itemvalue="TestNG.TestBaseBoutiqaat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="661a72ea-a67e-45a8-b541-f2d06b471c6b" name="Default Changelist" comment="" />
+      <created>1578142501113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578142501113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBaseBoutiqaat - 2020.01.04 at 18h 32m 12s.xml">
+      <configuration name="TestBaseBoutiqaat" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBaseBoutiqaat - 2020.01.04 at 18h 33m 44s.xml">
+      <configuration name="TestBaseBoutiqaat" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBaseBoutiqaat_(1) - 2020.01.04 at 18h 35m 17s.xml">
+      <configuration name="TestBaseBoutiqaat (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBaseBoutiqaat_(1) - 2020.01.04 at 18h 41m 17s.xml">
+      <configuration name="TestBaseBoutiqaat (1)" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1898527" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3715221" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Boutiqaat/Boutiqaat/BaseClass.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java</url>
+          <line>40</line>
+          <properties class="Boutiqaat.Boutiqaat.TestBaseBoutiqaat" method="AppiumSetUp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java</url>
+          <line>90</line>
+          <properties class="Boutiqaat.Boutiqaat.TestBaseBoutiqaat" method="navigateBoutiqaatBanner">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java</url>
+          <line>114</line>
+          <properties class="Boutiqaat.Boutiqaat.TestBaseBoutiqaat" method="testHomepage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Boutiqaat/Boutiqaat/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="22" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="849">
+          <caret line="542" selection-start-line="542" selection-end-line="542" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Boutiqaat/Boutiqaat/TestBaseBoutiqaat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

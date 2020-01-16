@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Boutiqaat.Boutiqaat.TestBaseBoutiqaat">
+        <methods>
+          <include name="guestCheckoutcod"/>
+          <include name="extentReportSetup"/>
+          <include name="flashextentreport"/>
+          <include name="stopServer"/>
+          <include name="AppiumSetUp"/>
+        </methods>
+      </class> <!-- Boutiqaat.Boutiqaat.TestBaseBoutiqaat -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
